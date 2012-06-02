@@ -12,6 +12,6 @@
 #
 
 class autofs {
-    include autofs::base
+  include autofs::base
 }
 
